@@ -1,8 +1,9 @@
 
-## Welcome to Md. Kausaruzzaman GIT Hub Reporisitory
-🖋 Inicio desta jornada na programação: Agosto/21.
-⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
-👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
+## Welcome to Md. Kausaruzzaman GIT Hub Reporisitory <br>
+
+🖋 Start of this journey in the program: August/21.<br>
+⚡ Curiosity: I am a former CSE student, passionate about taking care of others and I hope to use my knowledge for this new phase.<br>
+👨‍⚕️ You can only see well with your heart - The Little Prince.<br>
 👋 Hi, I’m @Kausaruzzaman <br>
 👀 I’m interested in ...Cyber security and Ethical Hacking <br>
 🌱 I’m currently learning ...Cyber security & SQA <br>
