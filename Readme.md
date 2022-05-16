@@ -1,13 +1,13 @@
-👋 Hi, I’m @Kausaruzzaman <br>
-👀 I’m interested in ...Cyber security and Ethical Hacking <br>
-🌱 I’m currently learning ...Cyber security & SQA <br>
-💞️ I’m looking to collaborate on ... Git <br>
-📫 How to reach me ...linkedn,Telegram <br>
 
 ## Oiii eu sou a Thatiane Deboleto
 - 🖋 Inicio desta jornada na programação: Agosto/21.
 - ⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
 - 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
+- 👋 Hi, I’m @Kausaruzzaman <br>
+👀 I’m interested in ...Cyber security and Ethical Hacking <br>
+🌱 I’m currently learning ...Cyber security & SQA <br>
+💞️ I’m looking to collaborate on ... Git <br>
+📫 How to reach me ...linkedn,Telegram <br>
 
 <div align="center">
   <a href="https://github.com/ThatianeDeboleto">
