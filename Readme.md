@@ -1,16 +1,16 @@
 
 ## Welcome to Md. Kausaruzzaman GIT Hub Reporisitory
-- 🖋 Inicio desta jornada na programação: Agosto/21.
-- ⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
-- 👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
-- 👋 Hi, I’m @Kausaruzzaman <br>
+🖋 Inicio desta jornada na programação: Agosto/21.
+⚡ Curiosidade: Sou ex acadêmica de medicina, apaixonada por cuidar do próximo e espero utilizar de meus conhecimentos para esta nova fase.
+👨‍⚕️ Só se vê bem com o coração - O Pequeno príncipe.
+👋 Hi, I’m @Kausaruzzaman <br>
 👀 I’m interested in ...Cyber security and Ethical Hacking <br>
 🌱 I’m currently learning ...Cyber security & SQA <br>
 💞️ I’m looking to collaborate on ... Git <br>
 📫 How to reach me ...linkedn,Telegram <br>
 
 <div align="center">
-  <a href="https://github.com/ThatianeDeboleto">
+  <a href="https://github.com/kausar3033">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThatianeDeboleto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianeDeboleto&layout=compact&langs_count=7&theme=gotham"/>
 </div>
