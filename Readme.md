@@ -32,7 +32,7 @@
   
   ##
  
-<div> 
+<!-- <div> 
    
 
   <a href="https://twitter.com/kausar3033" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com" target="_blank"></a>
@@ -43,4 +43,4 @@
  
   ![Snake animation](https://github.com/ThatianeDeboleto/ThatianeDeboleto/blob/output/github-contribution-grid-snake.svg)
   
-</div>
+</div> -->
