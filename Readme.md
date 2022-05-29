@@ -10,7 +10,7 @@
 💞️ I’m looking to collaborate on ... Git <br>
 📫 How to reach me ...linkedn,Telegram <br>
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/kausar3033">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThatianeDeboleto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianeDeboleto&layout=compact&langs_count=7&theme=gotham"/>
@@ -28,11 +28,11 @@
    <img align="center" alt="Ane-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://i.pinimg.com/originals/ff/c5/09/ffc509c88000bf13a9e76135371a21f7.gif">
   
-</div>
+</div> -->
   
   ##
  
-<!-- <div> 
+<div> 
    
 
   <a href="https://twitter.com/kausar3033" target="_blank"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com" target="_blank"></a>
@@ -43,4 +43,4 @@
  
   ![Snake animation](https://github.com/ThatianeDeboleto/ThatianeDeboleto/blob/output/github-contribution-grid-snake.svg)
   
-</div> -->
+</div>
