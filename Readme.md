@@ -1,7 +1,7 @@
 
 ## Welcome to Md. Kausaruzzaman GIT Hub Reporisitory <br>
 
-🖋 Start of this journey in the program: Julay/21.<br>
+🖋 Start of this journey in the program: July/21.<br>
 ⚡ Curiosity: Passionate about taking care of others and I hope to use my knowledge for this new phase.<br>
 👨‍⚕️ You can only see well with your heart - The Little Prince.<br>
 👋 Hi, I’m @Kausaruzzaman <br>
