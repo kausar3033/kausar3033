@@ -4,7 +4,6 @@
 👋 Hi, I’m @Kausaruzzaman <br>
 👀 I’m interested in ... Cyber security and DevOps <br>
 🌱 I’m currently learning ...DevOps! <br>
-💞️ I’m looking to collaborate on ... Git <br>
 📫 How to reach me ...linkedn,Twitter,website <br>
 
 <!--<div align="center">
