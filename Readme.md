@@ -1,12 +1,9 @@
 
 ## Welcome to Md. Kausaruzzaman GIT Hub Reporisitory <br>
 
-🖋 Start of this journey in the program: July/21.<br>
-⚡ Curiosity: Passionate about taking care of others and I hope to use my knowledge for this new phase.<br>
-👨‍⚕️ You can only see well with your heart - The Little Prince.<br>
 👋 Hi, I’m @Kausaruzzaman <br>
 👀 I’m interested in ... Cyber security and DevOps <br>
-🌱 I’m currently learning ...Cyber security & SQA <br>
+🌱 I’m currently learning ...DevOps! <br>
 💞️ I’m looking to collaborate on ... Git <br>
 📫 How to reach me ...linkedn,Twitter,website <br>
 
